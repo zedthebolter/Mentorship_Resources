@@ -1,0 +1,121 @@
+Lag,Group,Definition,Variable,Available N,Mean,Median,SD
+1,G1a,Mentored rate > 0; post-graduation rate increased,Topic continuity (TC),41508,0.109224070887549,0.08695652174,0.1005010695446722
+1,G1a,Mentored rate > 0; post-graduation rate increased,Network consistency (NC),38981,0.20624995509156877,0.0,0.2855262498841645
+1,G1a,Mentored rate > 0; post-graduation rate increased,Direct mentor collaboration (DP),38981,0.41130244739786986,0.4,0.3335920648493984
+1,G1a,Mentored rate > 0; post-graduation rate increased,Log peer count (PC),41525,0.928886054422006,0.6931471806,0.941897000918941
+1,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period citation-elite journal rate,41525,1.2216163081784637,0.7777777778,1.9256210520150079
+1,G1a,Mentored rate > 0; post-graduation rate increased,Post-graduation citation-elite journal rate,41525,3.4023248906258274,2.255813954,4.600088393925549
+1,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period publication rate,41525,2.620854828616681,1.625,4.538045599836816
+1,G1a,Mentored rate > 0; post-graduation rate increased,Mentor h-index,38981,55.75639414073523,49.0,36.794353387715944
+1,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period coauthorship network size,41525,65.83166767007826,16.0,945.3413066939993
+1,G1a,Mentored rate > 0; post-graduation rate increased,Observed post-graduation career years,41525,18.81112582781457,15.0,13.313911027702108
+1,G1b,Mentored count = 0; post-graduation count > 0,Topic continuity (TC),5503,0.06958216721315827,0.03225806452,0.12076021149854449
+1,G1b,Mentored count = 0; post-graduation count > 0,Network consistency (NC),4776,0.09748011564501698,0.0,0.25874571792987827
+1,G1b,Mentored count = 0; post-graduation count > 0,Direct mentor collaboration (DP),4776,0.28081899993320353,0.0,0.383380827003431
+1,G1b,Mentored count = 0; post-graduation count > 0,Log peer count (PC),11625,0.6522905717329033,0.0,0.8252790878238552
+1,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period citation-elite journal rate,11625,0.0,0.0,0.0
+1,G1b,Mentored count = 0; post-graduation count > 0,Post-graduation citation-elite journal rate,11625,1.2021737535357593,0.6923076923,1.647930116770089
+1,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period publication rate,11625,0.38079684389379537,0.0,0.9632461825143309
+1,G1b,Mentored count = 0; post-graduation count > 0,Mentor h-index,9348,41.16099700470689,35.0,30.9060786236717
+1,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period coauthorship network size,11625,4.56094623655914,0.0,41.66233214737223
+1,G1b,Mentored count = 0; post-graduation count > 0,Observed post-graduation career years,11625,27.10374193548387,20.0,24.04230844268962
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Topic continuity (TC),17362,0.14379307889623916,0.125,0.12941781632345536
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Network consistency (NC),18135,0.13748828686684725,0.0,0.22865756511919508
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Direct mentor collaboration (DP),18135,0.4419492121614585,0.4482758621,0.3432527722742983
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Log peer count (PC),19198,1.1253293845958539,1.098612289,1.0048689938475739
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period citation-elite journal rate,19198,1.77662318359015,1.166666667,2.5769888948998245
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Post-graduation citation-elite journal rate,17379,1.1131684625246334,0.6666666667,1.8589203997629458
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period publication rate,19198,3.379535687776845,2.0,7.603028737446371
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentor h-index,18135,53.57435897435897,47.0,35.55517514500662
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period coauthorship network size,19198,96.45312011667882,21.0,1231.932312064665
+1,G2a,Mentored rate > 0; post-graduation rate did not increase,Observed post-graduation career years,19198,13.076466298572768,9.0,14.826649774885116
+1,G2b,No citation-elite output in either period,Topic continuity (TC),927,0.13153752446158576,0.02777777778,0.2185176667300436
+1,G2b,No citation-elite output in either period,Network consistency (NC),1429,0.02604629851453114,0.0,0.1265349663266036
+1,G2b,No citation-elite output in either period,Direct mentor collaboration (DP),1429,0.2415867531297481,0.0,0.37417844371260456
+1,G2b,No citation-elite output in either period,Log peer count (PC),3702,0.7873948655184225,0.6931471806,0.9180422682404313
+1,G2b,No citation-elite output in either period,Mentored-period citation-elite journal rate,3702,0.0,0.0,0.0
+1,G2b,No citation-elite output in either period,Post-graduation citation-elite journal rate,2576,0.0,0.0,0.0
+1,G2b,No citation-elite output in either period,Mentored-period publication rate,3702,0.2828110316343733,0.0,0.8056663404673653
+1,G2b,No citation-elite output in either period,Mentor h-index,2851,38.84075762890214,31.0,31.836918346657892
+1,G2b,No citation-elite output in either period,Mentored-period coauthorship network size,3702,2.336844948676391,0.0,14.885666707196963
+1,G2b,No citation-elite output in either period,Observed post-graduation career years,3702,14.980280929227444,6.0,34.45072747784079
+2,G1a,Mentored rate > 0; post-graduation rate increased,Topic continuity (TC),42827,0.11707880045439072,0.09638554217,0.10121241448985085
+2,G1a,Mentored rate > 0; post-graduation rate increased,Network consistency (NC),40306,0.174119523423165,0.0,0.26170490577353106
+2,G1a,Mentored rate > 0; post-graduation rate increased,Direct mentor collaboration (DP),40306,0.37739739325565996,0.3529411765,0.3123998240276649
+2,G1a,Mentored rate > 0; post-graduation rate increased,Log peer count (PC),42838,0.9870108347176013,0.6931471806,0.9753291141527157
+2,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period citation-elite journal rate,42838,1.2644956561614058,0.8,1.9552201334899433
+2,G1a,Mentored rate > 0; post-graduation rate increased,Post-graduation citation-elite journal rate,42838,3.4411398236302375,2.282051282,4.6589125189508955
+2,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period publication rate,42838,2.707850921235072,1.666666667,4.583528184081238
+2,G1a,Mentored rate > 0; post-graduation rate increased,Mentor h-index,40306,55.551580409864535,49.0,36.82721511111436
+2,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period coauthorship network size,42838,77.06277137121248,20.0,915.9062498529452
+2,G1a,Mentored rate > 0; post-graduation rate increased,Observed post-graduation career years,42838,18.271441243755543,15.0,13.511057586534484
+2,G1b,Mentored count = 0; post-graduation count > 0,Topic continuity (TC),4407,0.07042181827292057,0.03333333333,0.1159669472716014
+2,G1b,Mentored count = 0; post-graduation count > 0,Network consistency (NC),3824,0.073635863406,0.0,0.2238789084172972
+2,G1b,Mentored count = 0; post-graduation count > 0,Direct mentor collaboration (DP),3824,0.257332501589273,0.0,0.3645879674185143
+2,G1b,Mentored count = 0; post-graduation count > 0,Log peer count (PC),8775,0.6941342209713731,0.0,0.8629426009242708
+2,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period citation-elite journal rate,8775,0.0,0.0,0.0
+2,G1b,Mentored count = 0; post-graduation count > 0,Post-graduation citation-elite journal rate,8775,1.1177074410144046,0.625,1.6174214160772546
+2,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period publication rate,8775,0.377621072588976,0.1111111111,0.9792525244719787
+2,G1b,Mentored count = 0; post-graduation count > 0,Mentor h-index,7048,40.655363223609534,34.0,31.262975174392285
+2,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period coauthorship network size,8775,4.724330484330484,0.0,28.63321048337213
+2,G1b,Mentored count = 0; post-graduation count > 0,Observed post-graduation career years,8775,27.88,21.0,25.367184163173512
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Topic continuity (TC),17981,0.1409628104049329,0.125,0.12441445864349339
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Network consistency (NC),19645,0.10830022979567405,0.0,0.2036042241356788
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Direct mentor collaboration (DP),19645,0.4315751234491503,0.4375,0.33218959405367
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Log peer count (PC),20735,1.1888015644827299,1.098612289,1.0351578059777933
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period citation-elite journal rate,20735,1.6873906550216204,1.090909091,2.6023445028567678
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Post-graduation citation-elite journal rate,18001,1.082037434655975,0.6363636364,1.9224786966754044
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period publication rate,20735,3.284512857066251,2.0,7.511833427212082
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentor h-index,19645,52.73866123695597,46.0,35.09560370254524
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period coauthorship network size,20735,115.53267422232939,24.0,1599.2890648520063
+2,G2a,Mentored rate > 0; post-graduation rate did not increase,Observed post-graduation career years,20735,12.026380516035688,8.0,14.90364630508005
+2,G2b,No citation-elite output in either period,Topic continuity (TC),921,0.12501695159020632,0.04,0.1998273996290745
+2,G2b,No citation-elite output in either period,Network consistency (NC),1546,0.020605524824679818,0.0,0.11662602608543791
+2,G2b,No citation-elite output in either period,Direct mentor collaboration (DP),1546,0.23359516045723155,0.0,0.3675954064579064
+2,G2b,No citation-elite output in either period,Log peer count (PC),3702,0.8432283189829823,0.6931471806,0.9584603002113272
+2,G2b,No citation-elite output in either period,Mentored-period citation-elite journal rate,3702,0.0,0.0,0.0
+2,G2b,No citation-elite output in either period,Post-graduation citation-elite journal rate,2434,0.0,0.0,0.0
+2,G2b,No citation-elite output in either period,Mentored-period publication rate,3702,0.2883325125063965,0.007936507935,0.7898344452806335
+2,G2b,No citation-elite output in either period,Mentor h-index,2865,38.719720767888305,31.0,31.828241999030013
+2,G2b,No citation-elite output in either period,Mentored-period coauthorship network size,3702,5.44138303619665,0.0,94.7682832001699
+2,G2b,No citation-elite output in either period,Observed post-graduation career years,3702,14.284440842787681,5.0,34.32126255603512
+3,G1a,Mentored rate > 0; post-graduation rate increased,Topic continuity (TC),43232,0.12532131386019216,0.1058823529,0.10145425762337937
+3,G1a,Mentored rate > 0; post-graduation rate increased,Network consistency (NC),40856,0.1505748787955891,0.0,0.2423995863077683
+3,G1a,Mentored rate > 0; post-graduation rate increased,Direct mentor collaboration (DP),40856,0.3382432138588507,0.3076923077,0.2906829792266345
+3,G1a,Mentored rate > 0; post-graduation rate increased,Log peer count (PC),43240,1.034950784433534,0.6931471806,1.0047227659706812
+3,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period citation-elite journal rate,43240,1.3259809025968317,0.8571428571,2.050324621133439
+3,G1a,Mentored rate > 0; post-graduation rate increased,Post-graduation citation-elite journal rate,43240,3.5015302443974257,2.315789474,4.759743746174467
+3,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period publication rate,43240,2.892586115432425,1.777777778,9.877938290812702
+3,G1a,Mentored rate > 0; post-graduation rate increased,Mentor h-index,40856,55.31880262384962,49.0,36.87524492871597
+3,G1a,Mentored rate > 0; post-graduation rate increased,Mentored-period coauthorship network size,43240,92.05920444033302,24.0,1047.7495576294793
+3,G1a,Mentored rate > 0; post-graduation rate increased,Observed post-graduation career years,43240,17.74209065679926,14.0,13.625200981388106
+3,G1b,Mentored count = 0; post-graduation count > 0,Topic continuity (TC),3456,0.06820751313677229,0.03571428571,0.10232624563268375
+3,G1b,Mentored count = 0; post-graduation count > 0,Network consistency (NC),2971,0.05909474816604612,0.0,0.19958244310774872
+3,G1b,Mentored count = 0; post-graduation count > 0,Direct mentor collaboration (DP),2971,0.22536953150155165,0.0,0.3439105713623902
+3,G1b,Mentored count = 0; post-graduation count > 0,Log peer count (PC),6671,0.7274318756757008,0.6931471806,0.8941065090711096
+3,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period citation-elite journal rate,6671,0.0,0.0,0.0
+3,G1b,Mentored count = 0; post-graduation count > 0,Post-graduation citation-elite journal rate,6671,1.0296320586478038,0.5476190476,1.6122177057206635
+3,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period publication rate,6671,0.36987959977189167,0.125,0.8825401324460111
+3,G1b,Mentored count = 0; post-graduation count > 0,Mentor h-index,5331,40.465203526542865,34.0,31.528492415693012
+3,G1b,Mentored count = 0; post-graduation count > 0,Mentored-period coauthorship network size,6671,5.575625843201919,0.0,36.39001542872529
+3,G1b,Mentored count = 0; post-graduation count > 0,Observed post-graduation career years,6671,28.700194873332332,21.0,26.731836130923263
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Topic continuity (TC),18677,0.13783271427415666,0.125,0.12209681684338046
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Network consistency (NC),21316,0.0858289203614931,0.0,0.17983870416123057
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Direct mentor collaboration (DP),21316,0.4111841373471381,0.4,0.32166887261327515
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Log peer count (PC),22437,1.2323878724732895,1.098612289,1.0551984058501889
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period citation-elite journal rate,22437,1.6271751793602889,1.0,2.559704254560845
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Post-graduation citation-elite journal rate,18707,1.057851486888384,0.6086956522,1.8752492520511108
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period publication rate,22437,3.23231366438833,1.875,7.046068227658025
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentor h-index,21316,52.345468192906736,46.0,34.99823391022043
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Mentored-period coauthorship network size,22437,130.76770512991934,27.0,1710.5704870378593
+3,G2a,Mentored rate > 0; post-graduation rate did not increase,Observed post-graduation career years,22437,11.07478718188706,7.0,15.013179132065547
+3,G2b,No citation-elite output in either period,Topic continuity (TC),904,0.13269056436423673,0.05882352941,0.19403687402671993
+3,G2b,No citation-elite output in either period,Network consistency (NC),1651,0.01812997169082374,0.0,0.10770082727671472
+3,G2b,No citation-elite output in either period,Direct mentor collaboration (DP),1651,0.2284372113653543,0.0,0.3648377903448095
+3,G2b,No citation-elite output in either period,Log peer count (PC),3702,0.8907486674391141,0.6931471806,0.9882078705139479
+3,G2b,No citation-elite output in either period,Mentored-period citation-elite journal rate,3702,0.0,0.0,0.0
+3,G2b,No citation-elite output in either period,Post-graduation citation-elite journal rate,2295,0.0,0.0,0.0
+3,G2b,No citation-elite output in either period,Mentored-period publication rate,3702,0.29586033194045386,0.1,0.7635187059621964
+3,G2b,No citation-elite output in either period,Mentor h-index,2874,38.63152400835073,31.0,31.814851076449386
+3,G2b,No citation-elite output in either period,Mentored-period coauthorship network size,3702,5.84332793084819,0.0,94.87880055900104
+3,G2b,No citation-elite output in either period,Observed post-graduation career years,3702,13.626958400864398,4.0,34.181666665102995

@@ -1,0 +1,9 @@
+Variable,5-year,10-year,20-year
+Topic_Continuity,+0.230***,+0.161***,+0.075***
+Net_Consistency,+0.311***,+0.290***,+0.263***
+Direct_Percent,-0.101***,-0.072***,-0.008
+PeerCount_log,-0.059***,-0.060***,-0.057***
+h_index,+0.174***,+0.168***,+0.162***
+AvgPaperPerYear_Mentored,+0.813***,+0.818***,+0.809***
+NetworkSize_Mentored,+0.565***,+0.571***,+0.569***
+AvgTopPubPerYear_Mentored,+0.822***,+0.818***,+0.794***

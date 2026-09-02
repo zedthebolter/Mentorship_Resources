@@ -1,0 +1,4 @@
+﻿Step,Sample restriction,N remaining,N excluded
+Original mentorship records,"Bioscience mentor–mentee relationships, 1800–2020","743,176",—
+Linked to OpenAlex with usable publication records,Successfully matched to OpenAlex author/work identifiers and retained publication-level metadata required for analysis,"556,256","186,920"
+Has at least one mentor-linked publication record required for collaboration-based measures,Applied to retain records usable for collaboration-based variable construction,"239,931","316,325"

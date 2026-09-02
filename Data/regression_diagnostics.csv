@@ -1,0 +1,45 @@
+family,gap,horizon,model,nobs,aic,dispersion,converged,status
+conventional,1,L5,OLS,58501,250678.4674849459,,True,ok
+conventional,1,L5,PPML,58501,705437.2421884408,11.697722144650339,True,ok
+conventional,1,L5,LPM-any,58501,-7962.807863865673,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,1,L5,Gamma-positive,55221,168661.12182618442,0.676533601265754,True,ok
+conventional,1,L10,OLS,46394,214137.72822721984,,True,ok
+conventional,1,L10,PPML,46394,1034881.5788373153,23.45140724577801,True,ok
+conventional,1,L10,LPM-any,46394,-26998.1185503265,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,1,L10,Gamma-positive,44783,147390.626693763,0.7628470206990544,True,ok
+conventional,1,L20,OLS,22234,107665.94520650353,,True,ok
+conventional,1,L20,PPML,22234,989675.7781672447,47.98325581019449,True,ok
+conventional,1,L20,LPM-any,22234,-22620.902459887788,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,1,L20,Gamma-positive,21741,80055.31830709545,0.7939054939537998,True,ok
+conventional,2,L5,OLS,57751,255785.5756271961,,True,ok
+conventional,2,L5,PPML,57751,744764.8468373254,15.983730252476088,True,ok
+conventional,2,L5,LPM-any,57751,-6070.81573787301,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,2,L5,Gamma-positive,54395,171928.88351653115,0.6778854611937132,True,ok
+conventional,2,L10,OLS,44736,210816.85766493715,,True,ok
+conventional,2,L10,PPML,44736,1060965.0933554808,25.480207194031166,True,ok
+conventional,2,L10,LPM-any,44736,-22240.95870012835,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,2,L10,Gamma-positive,43035,145233.15335947575,0.7596759495873294,True,ok
+conventional,2,L20,OLS,21440,104948.949306725,,True,ok
+conventional,2,L20,PPML,21440,990708.7860407052,49.848232793367266,True,ok
+conventional,2,L20,LPM-any,21440,-18811.883309810313,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,2,L20,Gamma-positive,20890,77800.30779661468,0.7983099796464567,True,ok
+conventional,3,L5,OLS,56070,253348.5807438416,,True,ok
+conventional,3,L5,PPML,56070,764544.6558867517,13.667796371074607,True,ok
+conventional,3,L5,LPM-any,56070,-4647.164650828781,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,3,L5,Gamma-positive,52731,170735.61820363125,0.6757443403520023,True,ok
+conventional,3,L10,OLS,42823,204763.72621413454,,True,ok
+conventional,3,L10,PPML,42823,1071987.0092589187,27.90748142239376,True,ok
+conventional,3,L10,LPM-any,42823,-18698.019486678095,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,3,L10,Gamma-positive,41085,141816.54839467985,0.7778940207279885,True,ok
+conventional,3,L20,OLS,20568,101984.90352891163,,True,ok
+conventional,3,L20,PPML,20568,979365.6526685309,51.27342980806909,True,ok
+conventional,3,L20,LPM-any,20568,-16182.39365575544,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+conventional,3,L20,Gamma-positive,19988,75163.69840458702,0.7936751191864813,True,ok
+landmark,3,early1_3_to_later4_10,OLS,40769,211476.19363577318,,True,ok
+landmark,3,early1_3_to_later4_10,PPML,40769,886593.4462054,24.419300207011425,True,ok
+landmark,3,early1_3_to_later4_10,LPM-any,40769,3212.609200141058,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+landmark,3,early1_3_to_later4_10,Gamma-positive,37896,145541.01666172204,0.8830853903440958,True,ok
+landmark,3,early1_3_to_later6_20,OLS,19319,104736.49569017152,,True,ok
+landmark,3,early1_3_to_later6_20,PPML,19319,884744.8959762513,51.68558362562832,True,ok
+landmark,3,early1_3_to_later6_20,LPM-any,19319,-7739.920643036858,,True,used because binary GLM/Logit covariance is singular under quasi-separation
+landmark,3,early1_3_to_later6_20,Gamma-positive,18513,77831.0548143163,0.9494118817279668,True,ok
