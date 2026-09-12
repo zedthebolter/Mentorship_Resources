@@ -26,6 +26,8 @@ identifiers.
 
 ## Descriptive figure data
 
+- `figure2_panel_a_standardized_means.csv`: the standardized group means and
+  95% confidence intervals displayed in Panel A of Figure 2.
 - `group_distribution_summary.csv`: group-specific quantiles, means, and
   standard deviations for the four mentorship-resource measures.
 - `kde_density_curves.csv`: precomputed density-curve coordinates and medians
