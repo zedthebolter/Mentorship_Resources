@@ -1,4 +1,4 @@
-# Resources Open Doors, but Capabilities Pave the Way
+# Mentorship resources and citation-elite journal publication trajectories after training: Evidence from bioscience mentor-mentee networks
 
 This directory is the public data-and-code package for the manuscript. Its
 organization follows a compact reproducibility format: one Jupyter notebook,
