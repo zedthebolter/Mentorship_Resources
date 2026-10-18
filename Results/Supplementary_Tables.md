@@ -1,0 +1,552 @@
+**Table S1. Sample sizes by publication lag and observation window. Panel A. Observation-window input samples.**
+
+| Publication lag | 5-year window | 10-year window | 20-year window | Overall career | Landmark: years 4–10 | Landmark: years 6–20 |
+| --- | --- | --- | --- | --- | --- | --- |
+| t2 (2 years) | 101,696 | 76,903 | 38,263 | 76,050 | 76,903 | 38,263 |
+| t3 (3 years) | 97,140 | 72,255 | 35,895 | 76,050 | 72,255 | 35,895 |
+
+Note. Counts are relationship-spell records before analysis-specific variable-availability restrictions. Samples overlap and should not be summed.
+
+---
+
+**Table S1, Panel B. Analytical sample sizes.**
+
+| Design | Window | Window-input N | Analytical N |
+| --- | --- | --- | --- |
+| Conventional t2 | 5-year | 101,696 | 57,751 |
+| Conventional t2 | 10-year | 76,903 | 44,736 |
+| Conventional t2 | 20-year | 38,263 | 21,440 |
+| Overall t2 | Overall career | 76,050 | 61,981 |
+| Landmark t2 | Years 4–10 | 76,903 | 42,567 |
+| Landmark t2 | Years 6–20 | 38,263 | 20,127 |
+| Conventional t3 | 5-year | 97,140 | 56,070 |
+| Conventional t3 | 10-year | 72,255 | 42,823 |
+| Conventional t3 | 20-year | 35,895 | 20,568 |
+| Overall t3 | Overall career | 76,050 | 62,394 |
+| Landmark t3 | Years 4–10 | 72,255 | 40,769 |
+| Landmark t3 | Years 6–20 | 35,895 | 19,319 |
+| Spearman correlations (Table 3, t3) | 5-year | 97,140 | 59,583–97,140 |
+| Spearman correlations (Table 3, t3) | 10-year | 72,255 | 44,816–72,255 |
+| Spearman correlations (Table 3, t3) | 20-year | 35,895 | 21,092–35,895 |
+
+Note. Regression N denotes complete cases. Correlation N ranges summarize pairwise available observations across variable–outcome correlations within a window. Mentorship-period LPM N is reported in Table S5, Panel B.
+
+---
+
+**Table S2, Panel A. Identification of citation-elite journals.**
+
+| Indicator | Threshold (95th percentile) | Journals meeting threshold | Share of all journals |
+| --- | --- | --- | --- |
+| 2yr_mean_citedness | 1.6667 | 13,051 | 5.00% |
+| h_index | 52.0000 | 13,195 | 5.06% |
+| cited_by_count | 16,239.6000 | 13,040 | 5.00% |
+
+---
+
+**Table S2, Panel B. Identification of citation-elite journals.**
+
+| Item | Value |
+| --- | --- |
+| Total number of journals in OpenAlex | 260,798 |
+| Journals meeting none of the three thresholds | 240,425 |
+| Journals meeting one threshold | 8,307 |
+| Journals meeting two thresholds | 5,219 |
+| Journals meeting all three thresholds | 6,847 |
+| Final citation-elite journal set | 6,847 |
+| Share of all journals | 2.6254% |
+
+---
+
+**Table S3, Panel A. Descriptive statistics for t2.**
+
+| Variable | 5-year Mean | 5-year Median | 5-year SD | 10-year Mean | 10-year Median | 10-year SD | 20-year Mean | 20-year Median | 20-year SD | Overall career Mean | Overall career Median | Overall career SD |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N | 57,751 |  |  | 44,736 |  |  | 21,440 |  |  | 61,981 |  |  |
+| Topic_Continuity | 0.175 | 0.154 | 0.144 | 0.142 | 0.125 | 0.116 | 0.099 | 0.083 | 0.087 | 0.122 | 0.100 | 0.111 |
+| Network_Consistency | 0.136 | 0.000 | 0.235 | 0.143 | 0.000 | 0.248 | 0.129 | 0.000 | 0.251 | 0.153 | 0.000 | 0.248 |
+| Direct_Percent | 0.373 | 0.333 | 0.320 | 0.363 | 0.333 | 0.324 | 0.328 | 0.250 | 0.323 | 0.377 | 0.339 | 0.321 |
+| PeerCount_log | 1.019 | 0.693 | 0.989 | 1.011 | 0.693 | 0.994 | 0.818 | 0.693 | 0.923 | 1.015 | 0.693 | 0.989 |
+| h_index | 54.157 | 48.000 | 36.482 | 55.350 | 49.000 | 37.096 | 55.126 | 49.000 | 37.675 | 53.619 | 47.000 | 36.308 |
+| AvgTopPubPerYear_Mentored | 1.348 | 0.857 | 2.132 | 1.217 | 0.800 | 1.660 | 1.088 | 0.714 | 1.419 | 1.359 | 0.857 | 2.177 |
+| AvgPaperPerYear_Mentored | 2.819 | 1.750 | 4.972 | 2.517 | 1.571 | 3.912 | 2.149 | 1.423 | 2.518 | 2.873 | 1.750 | 5.710 |
+| NetworkSize_Mentored | 80.636 | 20.000 | 1078.612 | 56.360 | 16.000 | 542.745 | 30.110 | 11.000 | 140.888 | 84.400 | 20.000 | 1103.041 |
+| AvgTopPubPerYear_Post | 2.188 | 1.400 | 3.518 | 2.400 | 1.500 | 3.534 | 2.776 | 1.800 | 3.397 | 2.642 | 1.591 | 4.090 |
+
+---
+
+**Table S3, Panel B. Descriptive statistics for t3.**
+
+| Variable | 5-year Mean | 5-year Median | 5-year SD | 10-year Mean | 10-year Median | 10-year SD | 20-year Mean | 20-year Median | 20-year SD | Overall career Mean | Overall career Median | Overall career SD |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N | 56,070 |  |  | 42,823 |  |  | 20,568 |  |  | 62,394 |  |  |
+| Topic_Continuity | 0.176 | 0.162 | 0.138 | 0.148 | 0.133 | 0.114 | 0.106 | 0.091 | 0.088 | 0.127 | 0.111 | 0.109 |
+| Network_Consistency | 0.115 | 0.000 | 0.214 | 0.124 | 0.000 | 0.229 | 0.114 | 0.000 | 0.233 | 0.131 | 0.000 | 0.228 |
+| Direct_Percent | 0.338 | 0.300 | 0.299 | 0.327 | 0.278 | 0.302 | 0.293 | 0.222 | 0.298 | 0.344 | 0.308 | 0.301 |
+| PeerCount_log | 1.073 | 1.099 | 1.020 | 1.058 | 0.693 | 1.022 | 0.857 | 0.693 | 0.948 | 1.066 | 0.693 | 1.017 |
+| h_index | 54.374 | 48.000 | 36.661 | 55.417 | 49.000 | 37.325 | 54.699 | 49.000 | 37.542 | 53.604 | 47.000 | 36.422 |
+| AvgTopPubPerYear_Mentored | 1.386 | 0.889 | 2.158 | 1.259 | 0.833 | 1.724 | 1.122 | 0.750 | 1.467 | 1.419 | 0.900 | 2.260 |
+| AvgPaperPerYear_Mentored | 2.914 | 1.800 | 5.337 | 2.601 | 1.625 | 4.174 | 2.217 | 1.500 | 2.547 | 3.015 | 1.833 | 5.882 |
+| NetworkSize_Mentored | 93.928 | 24.000 | 1178.501 | 65.406 | 19.000 | 624.557 | 35.641 | 13.000 | 160.911 | 102.818 | 25.000 | 1258.936 |
+| AvgTopPubPerYear_Post | 2.308 | 1.400 | 3.734 | 2.509 | 1.600 | 3.752 | 2.839 | 1.850 | 3.546 | 2.681 | 1.600 | 4.188 |
+
+---
+
+**Table S4, Panel A. Group-wise descriptive statistics for t2.**
+
+| Variable | G1a Mean | G1a Median | G1b Mean | G1b Median | G2a Mean | G2a Median | G2b Mean | G2b Median |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N | 42,838 |  | 8,775 |  | 18,001 |  | 2,434 |  |
+| AvgTopPubPerYear_Mentored | 1.264 | 0.800 | 0.000 | 0.000 | 1.854 | 1.222 | 0.000 | 0.000 |
+| AvgTopPubPerYear_Post | 3.441 | 2.282 | 1.118 | 0.625 | 1.082 | 0.636 | 0.000 | 0.000 |
+| Topic_Continuity | 0.117 | 0.096 | 0.070 | 0.033 | 0.141 | 0.125 | 0.125 | 0.040 |
+| Network_Consistency | 0.174 | 0.000 | 0.074 | 0.000 | 0.124 | 0.000 | 0.040 | 0.000 |
+| PeerCount_log | 0.987 | 0.693 | 0.694 | 0.000 | 1.151 | 1.099 | 0.750 | 0.693 |
+| h_index | 55.552 | 49.000 | 40.655 | 34.000 | 53.673 | 47.000 | 37.035 | 29.000 |
+| NetworkSize_Mentored | 77.063 | 20.000 | 4.724 | 0.000 | 129.140 | 27.000 | 6.698 | 0.000 |
+
+Note. Groups are defined from overall-career records with both period publication rates observed. Variable summaries use available observations within each group.
+
+---
+
+**Table S4, Panel B. Group-wise descriptive statistics for t3.**
+
+| Variable | G1a Mean | G1a Median | G1b Mean | G1b Median | G2a Mean | G2a Median | G2b Mean | G2b Median |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N | 43,240 |  | 6,671 |  | 18,707 |  | 2,295 |  |
+| AvgTopPubPerYear_Mentored | 1.326 | 0.857 | 0.000 | 0.000 | 1.828 | 1.200 | 0.000 | 0.000 |
+| AvgTopPubPerYear_Post | 3.502 | 2.316 | 1.030 | 0.548 | 1.058 | 0.609 | 0.000 | 0.000 |
+| Topic_Continuity | 0.125 | 0.106 | 0.068 | 0.036 | 0.138 | 0.125 | 0.133 | 0.059 |
+| Network_Consistency | 0.151 | 0.000 | 0.059 | 0.000 | 0.102 | 0.000 | 0.039 | 0.000 |
+| PeerCount_log | 1.035 | 0.693 | 0.727 | 0.693 | 1.189 | 1.099 | 0.780 | 0.693 |
+| h_index | 55.319 | 49.000 | 40.465 | 34.000 | 53.405 | 47.000 | 36.766 | 29.000 |
+| NetworkSize_Mentored | 92.059 | 24.000 | 5.576 | 0.000 | 148.169 | 32.000 | 7.307 | 0.000 |
+
+Note. Groups are defined from overall-career records with both period publication rates observed. Variable summaries use available observations within each group.
+
+---
+
+**Table S5. Publication-lag robustness checks for mentorship-period PSM0 and LPM results (t2 and t3). Panel A. PSM0 matched comparisons.**
+
+| Lag t | Outcome | Matched pairs | Maximum abs. SMD | Outcome SMD | Matched mean difference | p-value (clustered) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | Direct_Percent | 59,505 | 0.013 | +0.444 | +0.144 | <0.001 |
+| 2 | PeerCount_log | 59,772 | 0.014 | +0.179 | +0.175 | <0.001 |
+| 3 | Direct_Percent | 61,743 | 0.015 | +0.472 | +0.143 | <0.001 |
+| 3 | PeerCount_log | 61,978 | 0.015 | +0.132 | +0.135 | 0.024 |
+
+---
+
+**Table S5, Panel B. Mentorship-period LPM.**
+
+| Lag t | Window | Model | Variable | Estimate (SE) | p-value | 0.1-unit effect | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Mentorship period | LPM | Direct_Percent | +0.118 (0.005) | <0.001 | +1.18 pp | 65,321 |
+| 2 | Mentorship period | LPM | PeerCount_log | +0.010 (0.001) | <0.001 | +0.10 pp | 65,321 |
+| 3 | Mentorship period | LPM | Direct_Percent | +0.109 (0.005) | <0.001 | +1.09 pp | 66,794 |
+| 3 | Mentorship period | LPM | PeerCount_log | +0.008 (0.001) | <0.001 | +0.08 pp | 66,794 |
+
+Note. PSM0 matches on logged mentor h-index, training coauthor-network size and logged annual total publication rate during training . The LPM includes both focal predictors and effective-graduation-year fixed effects. Regression standard errors and matching p-values are clustered by mentee. Matching comparisons are observational.
+
+---
+
+**Table S5, Panel C. VIF diagnostics for the mentorship-period LPM.**
+
+| Variable | t2 VIF | t3 VIF | Assessment |
+| --- | --- | --- | --- |
+| Direct_Percent | 1.144 | 1.143 | Pass (<5) |
+| PeerCount_log | 1.048 | 1.050 | Pass (<5) |
+| ln(1+h_index) | 1.148 | 1.145 | Pass (<5) |
+| ln(1+NetworkSize_Mentored) | 2.140 | 2.191 | Pass (<5) |
+| ln(1+AvgPaperPerYear_Mentored) | 2.178 | 2.235 | Pass (<5) |
+
+Note. VIFs describe collinearity among the substantive predictors, with an intercept. Graduation-year indicators are excluded from these displayed VIFs. Models with identical samples and predictor matrices share the same VIF values.
+
+---
+
+**Table S6. Publication-lag robustness checks for post-graduation PSM1 and LPM results (t2 and t3). Panel A. PSM1 matched comparisons.**
+
+| Lag t | Window | Outcome | Matched pairs | Maximum abs. SMD | Outcome SMD | Matched mean difference | p-value (clustered) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5-year | Topic_Continuity | 24,460 | 0.034 | +0.511 | +0.075 | <0.001 |
+| 2 | 5-year | Network_Consistency | 53,838 | 0.033 | +0.630 | +0.116 | <0.001 |
+| 2 | 5-year | Direct_Percent | 53,838 | 0.033 | -0.281 | -0.094 | <0.001 |
+| 2 | 5-year | PeerCount_log | 55,721 | 0.030 | -0.381 | -0.402 | <0.001 |
+| 2 | 10-year | Topic_Continuity | 22,026 | 0.051 | +0.313 | +0.040 | <0.001 |
+| 2 | 10-year | Network_Consistency | 41,958 | 0.033 | +0.591 | +0.115 | <0.001 |
+| 2 | 10-year | Direct_Percent | 41,958 | 0.033 | -0.314 | -0.106 | <0.001 |
+| 2 | 10-year | PeerCount_log | 44,293 | 0.029 | -0.500 | -0.527 | <0.001 |
+| 2 | 20-year | Topic_Continuity | 11,241 | 0.068 | +0.013 | +0.002 | 0.872 |
+| 2 | 20-year | Network_Consistency | 19,780 | 0.061 | +0.424 | +0.086 | <0.001 |
+| 2 | 20-year | Direct_Percent | 19,780 | 0.061 | -0.447 | -0.156 | <0.001 |
+| 2 | 20-year | PeerCount_log | 21,655 | 0.049 | -0.598 | -0.598 | <0.001 |
+| 2 | Overall career | Topic_Continuity | 24,671 | 0.028 | +0.213 | +0.028 | <0.001 |
+| 2 | Overall career | Network_Consistency | 59,536 | 0.029 | +0.702 | +0.133 | <0.001 |
+| 2 | Overall career | Direct_Percent | 59,536 | 0.029 | -0.383 | -0.129 | <0.001 |
+| 2 | Overall career | PeerCount_log | 62,762 | 0.026 | -0.339 | -0.352 | <0.001 |
+| 3 | 5-year | Topic_Continuity | 24,419 | 0.031 | +0.655 | +0.086 | <0.001 |
+| 3 | 5-year | Network_Consistency | 51,994 | 0.036 | +0.576 | +0.096 | <0.001 |
+| 3 | 5-year | Direct_Percent | 51,994 | 0.036 | -0.361 | -0.116 | <0.001 |
+| 3 | 5-year | PeerCount_log | 53,263 | 0.034 | -0.389 | -0.423 | <0.001 |
+| 3 | 10-year | Topic_Continuity | 20,207 | 0.043 | +0.487 | +0.058 | <0.001 |
+| 3 | 10-year | Network_Consistency | 39,881 | 0.043 | +0.523 | +0.095 | <0.001 |
+| 3 | 10-year | Direct_Percent | 39,881 | 0.043 | -0.376 | -0.122 | <0.001 |
+| 3 | 10-year | PeerCount_log | 41,476 | 0.039 | -0.474 | -0.515 | <0.001 |
+| 3 | 20-year | Topic_Continuity | 9,068 | 0.050 | +0.161 | +0.018 | 0.042 |
+| 3 | 20-year | Network_Consistency | 18,573 | 0.063 | +0.412 | +0.077 | <0.001 |
+| 3 | 20-year | Direct_Percent | 18,573 | 0.063 | -0.490 | -0.162 | <0.001 |
+| 3 | 20-year | PeerCount_log | 19,968 | 0.051 | -0.556 | -0.569 | <0.001 |
+| 3 | Overall career | Topic_Continuity | 23,627 | 0.022 | +0.317 | +0.039 | <0.001 |
+| 3 | Overall career | Network_Consistency | 59,632 | 0.024 | +0.665 | +0.116 | <0.001 |
+| 3 | Overall career | Direct_Percent | 59,632 | 0.024 | -0.450 | -0.144 | <0.001 |
+| 3 | Overall career | PeerCount_log | 61,993 | 0.022 | -0.285 | -0.301 | <0.001 |
+
+Note. PSM1 compares subsequent publishers with non-publishers. Matched differences are publisher minus non-publisher; SMDs standardize the focal-variable differences. Matching p-values are clustered by mentee. Matched pairs can include reused controls and are not unique-person counts.
+
+---
+
+**Table S6, Panel B. LPM estimates.**
+
+| Lag t | Window | Model | Variable | Estimate (SE) | p-value | 0.1-unit effect | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5-year | LPM | Topic_Continuity | +0.077 (0.011) | <0.001 | +0.77 pp | 57,751 |
+| 2 | 5-year | LPM | Network_Consistency | +0.064 (0.004) | <0.001 | +0.64 pp | 57,751 |
+| 2 | 5-year | LPM | Direct_Percent | +0.000 (0.004) | 0.969 | +0.00 pp | 57,751 |
+| 2 | 5-year | LPM | PeerCount_log | -0.005 (0.001) | <0.001 | -0.05 pp | 57,751 |
+| 2 | 10-year | LPM | Topic_Continuity | +0.033 (0.014) | 0.021 | +0.33 pp | 44,736 |
+| 2 | 10-year | LPM | Network_Consistency | +0.046 (0.003) | <0.001 | +0.46 pp | 44,736 |
+| 2 | 10-year | LPM | Direct_Percent | -0.001 (0.004) | 0.706 | -0.01 pp | 44,736 |
+| 2 | 10-year | LPM | PeerCount_log | -0.006 (0.001) | <0.001 | -0.06 pp | 44,736 |
+| 2 | 20-year | LPM | Topic_Continuity | -0.048 (0.026) | 0.069 | -0.48 pp | 21,440 |
+| 2 | 20-year | LPM | Network_Consistency | +0.026 (0.003) | <0.001 | +0.26 pp | 21,440 |
+| 2 | 20-year | LPM | Direct_Percent | -0.006 (0.004) | 0.166 | -0.06 pp | 21,440 |
+| 2 | 20-year | LPM | PeerCount_log | -0.007 (0.001) | <0.001 | -0.07 pp | 21,440 |
+| 2 | Overall career | LPM | Topic_Continuity | +0.035 (0.015) | 0.016 | +0.35 pp | 61,981 |
+| 2 | Overall career | LPM | Network_Consistency | +0.049 (0.003) | <0.001 | +0.49 pp | 61,981 |
+| 2 | Overall career | LPM | Direct_Percent | -0.004 (0.003) | 0.210 | -0.04 pp | 61,981 |
+| 2 | Overall career | LPM | PeerCount_log | -0.007 (0.001) | <0.001 | -0.07 pp | 61,981 |
+| 3 | 5-year | LPM | Topic_Continuity | +0.109 (0.012) | <0.001 | +1.09 pp | 56,070 |
+| 3 | 5-year | LPM | Network_Consistency | +0.064 (0.005) | <0.001 | +0.64 pp | 56,070 |
+| 3 | 5-year | LPM | Direct_Percent | -0.012 (0.005) | 0.019 | -0.12 pp | 56,070 |
+| 3 | 5-year | LPM | PeerCount_log | -0.006 (0.001) | <0.001 | -0.06 pp | 56,070 |
+| 3 | 10-year | LPM | Topic_Continuity | +0.053 (0.015) | <0.001 | +0.53 pp | 42,823 |
+| 3 | 10-year | LPM | Network_Consistency | +0.045 (0.004) | <0.001 | +0.45 pp | 42,823 |
+| 3 | 10-year | LPM | Direct_Percent | -0.009 (0.004) | 0.035 | -0.09 pp | 42,823 |
+| 3 | 10-year | LPM | PeerCount_log | -0.006 (0.001) | <0.001 | -0.06 pp | 42,823 |
+| 3 | 20-year | LPM | Topic_Continuity | -0.032 (0.027) | 0.246 | -0.32 pp | 20,568 |
+| 3 | 20-year | LPM | Network_Consistency | +0.030 (0.004) | <0.001 | +0.30 pp | 20,568 |
+| 3 | 20-year | LPM | Direct_Percent | -0.008 (0.005) | 0.136 | -0.08 pp | 20,568 |
+| 3 | 20-year | LPM | PeerCount_log | -0.006 (0.001) | <0.001 | -0.06 pp | 20,568 |
+| 3 | Overall career | LPM | Topic_Continuity | +0.072 (0.016) | <0.001 | +0.72 pp | 62,394 |
+| 3 | Overall career | LPM | Network_Consistency | +0.052 (0.003) | <0.001 | +0.52 pp | 62,394 |
+| 3 | Overall career | LPM | Direct_Percent | -0.016 (0.004) | <0.001 | -0.16 pp | 62,394 |
+| 3 | Overall career | LPM | PeerCount_log | -0.007 (0.001) | <0.001 | -0.07 pp | 62,394 |
+
+Note. LPM, OLS and PPML use the same complete-case samples and eight substantive predictors, with effective-graduation-year fixed effects. LPM models any citation-elite publication. PPML models publication counts with log exposure as an offset. LPM transformations are percentage-point changes for a 0.1-unit increase; PPML transformations are percentage rate changes for a 0.1-unit increase.
+
+---
+
+**Table S6, Panel C. VIF diagnostics for the post-graduation LPM.**
+
+| Variable | t2 VIF range | t3 VIF range | Assessment |
+| --- | --- | --- | --- |
+| Topic_Continuity | 1.028–1.064 | 1.027–1.071 | Pass (<5) |
+| Network_Consistency | 1.067–1.094 | 1.061–1.088 | Pass (<5) |
+| Direct_Percent | 1.098–1.135 | 1.093–1.128 | Pass (<5) |
+| PeerCount_log | 1.091–1.107 | 1.097–1.112 | Pass (<5) |
+| h_index | 1.152–1.208 | 1.158–1.207 | Pass (<5) |
+| AvgTopPubPerYear_Mentored | 2.197–3.460 | 2.231–3.575 | Pass (<5) |
+| AvgPaperPerYear_Mentored | 1.844–3.539 | 1.852–3.682 | Pass (<5) |
+| NetworkSize_Mentored | 1.115–1.274 | 1.122–1.298 | Pass (<5) |
+
+Note. VIFs describe collinearity among the substantive predictors, with an intercept. Graduation-year indicators are excluded from these displayed VIFs. Models with identical samples and predictor matrices share the same VIF values.
+
+---
+
+**Table S7. Covariate balance diagnostics for PSM2 across conventional and overall-career windows (t2 and t3).**
+
+| Lag t | Matching covariate | Matching sets | Abs. SMD before: range | Abs. SMD after: range | Maximum abs. SMD after | Assessment |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | log_h_index | 16 | 0.054–0.643 | 0.002–0.019 | 0.019 | Pass |
+| 2 | log_NetworkSize_Mentored | 16 | 0.020–0.792 | 0.002–0.018 | 0.018 | Pass |
+| 2 | log_AvgTopPubPerYear_Mentored | 16 | 0.013–0.608 | 0.000–0.006 | 0.006 | Pass |
+| 2 | log_AvgPaperPerYear_Mentored | 16 | 0.049–0.712 | 0.000–0.018 | 0.018 | Pass |
+| 3 | log_h_index | 16 | 0.060–0.641 | 0.001–0.018 | 0.018 | Pass |
+| 3 | log_NetworkSize_Mentored | 16 | 0.003–0.782 | 0.000–0.015 | 0.015 | Pass |
+| 3 | log_AvgTopPubPerYear_Mentored | 16 | 0.005–0.606 | 0.000–0.005 | 0.005 | Pass |
+| 3 | log_AvgPaperPerYear_Mentored | 16 | 0.043–0.724 | 0.000–0.017 | 0.017 | Pass |
+
+Note. Each lag includes 16 matching sets: four focal variables across four outcome windows. Ranges summarize absolute standardized mean differences in each matching covariate across the outcome-complete matched samples. All sets satisfy maximum absolute SMD ≤ 0.10.
+
+---
+
+**Table S8. Publication-lag robustness checks for PSM2 matched output comparisons (t2 and t3).**
+
+| Lag t | Window | Analysis | Matched pairs | Maximum abs. SMD | Balance | Treated/high mean | Control/low mean | Outcome ATT | p-value (clustered) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5-year | Topic_Continuity | 27,293 | 0.010 | Pass | 2.600 | 2.438 | +0.163 | <0.001 |
+| 2 | 5-year | Network_Consistency | 22,558 | 0.013 | Pass | 2.933 | 2.636 | +0.297 | <0.001 |
+| 2 | 5-year | Direct_Percent | 27,210 | 0.007 | Pass | 2.022 | 2.204 | -0.182 | <0.001 |
+| 2 | 5-year | PeerCount_log | 26,994 | 0.006 | Pass | 2.269 | 2.436 | -0.167 | <0.001 |
+| 2 | 10-year | Topic_Continuity | 21,124 | 0.013 | Pass | 2.725 | 3.041 | -0.316 | <0.001 |
+| 2 | 10-year | Network_Consistency | 16,851 | 0.014 | Pass | 3.219 | 2.853 | +0.366 | <0.001 |
+| 2 | 10-year | Direct_Percent | 20,640 | 0.008 | Pass | 2.246 | 2.375 | -0.129 | 0.002 |
+| 2 | 10-year | PeerCount_log | 21,257 | 0.008 | Pass | 2.399 | 2.667 | -0.267 | <0.001 |
+| 2 | 20-year | Topic_Continuity | 10,310 | 0.018 | Pass | 2.852 | 3.961 | -1.109 | <0.001 |
+| 2 | 20-year | Network_Consistency | 6,487 | 0.019 | Pass | 3.899 | 3.411 | +0.489 | <0.001 |
+| 2 | 20-year | Direct_Percent | 10,410 | 0.015 | Pass | 2.804 | 2.757 | +0.047 | 0.430 |
+| 2 | 20-year | PeerCount_log | 8,583 | 0.007 | Pass | 2.641 | 3.064 | -0.423 | <0.001 |
+| 2 | Overall career | Topic_Continuity | 29,659 | 0.010 | Pass | 2.749 | 3.708 | -0.959 | <0.001 |
+| 2 | Overall career | Network_Consistency | 26,145 | 0.015 | Pass | 3.335 | 3.055 | +0.281 | <0.001 |
+| 2 | Overall career | Direct_Percent | 29,867 | 0.007 | Pass | 2.426 | 2.700 | -0.274 | <0.001 |
+| 2 | Overall career | PeerCount_log | 29,625 | 0.006 | Pass | 2.565 | 2.997 | -0.433 | <0.001 |
+| 3 | 5-year | Topic_Continuity | 24,312 | 0.012 | Pass | 2.906 | 2.558 | +0.348 | <0.001 |
+| 3 | 5-year | Network_Consistency | 20,161 | 0.011 | Pass | 3.192 | 2.891 | +0.301 | <0.001 |
+| 3 | 5-year | Direct_Percent | 26,374 | 0.007 | Pass | 2.110 | 2.319 | -0.210 | <0.001 |
+| 3 | 5-year | PeerCount_log | 26,947 | 0.008 | Pass | 2.418 | 2.539 | -0.121 | 0.003 |
+| 3 | 10-year | Topic_Continuity | 20,607 | 0.014 | Pass | 2.901 | 3.190 | -0.289 | <0.001 |
+| 3 | 10-year | Network_Consistency | 14,985 | 0.013 | Pass | 3.461 | 3.125 | +0.336 | <0.001 |
+| 3 | 10-year | Direct_Percent | 20,136 | 0.009 | Pass | 2.343 | 2.529 | -0.186 | <0.001 |
+| 3 | 10-year | PeerCount_log | 20,734 | 0.008 | Pass | 2.535 | 2.816 | -0.281 | <0.001 |
+| 3 | 20-year | Topic_Continuity | 9,906 | 0.017 | Pass | 3.007 | 4.040 | -1.033 | <0.001 |
+| 3 | 20-year | Network_Consistency | 5,880 | 0.016 | Pass | 4.079 | 3.572 | +0.507 | <0.001 |
+| 3 | 20-year | Direct_Percent | 9,962 | 0.018 | Pass | 2.871 | 2.951 | -0.080 | 0.221 |
+| 3 | 20-year | PeerCount_log | 8,412 | 0.009 | Pass | 2.748 | 3.237 | -0.490 | <0.001 |
+| 3 | Overall career | Topic_Continuity | 30,292 | 0.013 | Pass | 2.886 | 3.588 | -0.702 | <0.001 |
+| 3 | Overall career | Network_Consistency | 24,603 | 0.011 | Pass | 3.496 | 3.195 | +0.301 | <0.001 |
+| 3 | Overall career | Direct_Percent | 29,728 | 0.007 | Pass | 2.428 | 2.757 | -0.329 | <0.001 |
+| 3 | Overall career | PeerCount_log | 30,427 | 0.007 | Pass | 2.656 | 3.040 | -0.384 | <0.001 |
+
+Note. PSM2 compares above-median and at/below-median values of the focal variable among positive-outcome records. ATT uses conventional matching notation for the high-minus-low matched mean difference in publications per year; estimates are interpreted as adjusted observational comparisons. P-values are clustered by mentee.
+
+---
+
+**Table S9. Publication-lag robustness checks for PPML and OLS estimates across post-graduation windows (t2 and t3). Panel A. PPML.**
+
+| Lag t | Window | Model | Variable | Estimate (SE) | p-value | 0.1-unit effect | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5-year | PPML | Topic_Continuity | +0.366 (0.037) | <0.001 | +3.7% | 57,751 |
+| 2 | 5-year | PPML | Network_Consistency | +0.616 (0.020) | <0.001 | +6.4% | 57,751 |
+| 2 | 5-year | PPML | Direct_Percent | -0.734 (0.021) | <0.001 | -7.1% | 57,751 |
+| 2 | 5-year | PPML | PeerCount_log | -0.040 (0.008) | <0.001 | -0.4% | 57,751 |
+| 2 | 10-year | PPML | Topic_Continuity | -0.257 (0.053) | <0.001 | -2.5% | 44,736 |
+| 2 | 10-year | PPML | Network_Consistency | +0.589 (0.022) | <0.001 | +6.1% | 44,736 |
+| 2 | 10-year | PPML | Direct_Percent | -0.574 (0.020) | <0.001 | -5.6% | 44,736 |
+| 2 | 10-year | PPML | PeerCount_log | -0.064 (0.008) | <0.001 | -0.6% | 44,736 |
+| 2 | 20-year | PPML | Topic_Continuity | -2.365 (0.132) | <0.001 | -21.1% | 21,440 |
+| 2 | 20-year | PPML | Network_Consistency | +0.455 (0.028) | <0.001 | +4.7% | 21,440 |
+| 2 | 20-year | PPML | Direct_Percent | -0.259 (0.026) | <0.001 | -2.6% | 21,440 |
+| 2 | 20-year | PPML | PeerCount_log | -0.084 (0.011) | <0.001 | -0.8% | 21,440 |
+| 2 | Overall career | PPML | Topic_Continuity | -1.104 (0.093) | <0.001 | -10.5% | 61,981 |
+| 2 | Overall career | PPML | Network_Consistency | +0.543 (0.023) | <0.001 | +5.6% | 61,981 |
+| 2 | Overall career | PPML | Direct_Percent | -0.444 (0.021) | <0.001 | -4.3% | 61,981 |
+| 2 | Overall career | PPML | PeerCount_log | -0.074 (0.008) | <0.001 | -0.7% | 61,981 |
+| 3 | 5-year | PPML | Topic_Continuity | +0.592 (0.039) | <0.001 | +6.1% | 56,070 |
+| 3 | 5-year | PPML | Network_Consistency | +0.691 (0.022) | <0.001 | +7.2% | 56,070 |
+| 3 | 5-year | PPML | Direct_Percent | -0.835 (0.022) | <0.001 | -8.0% | 56,070 |
+| 3 | 5-year | PPML | PeerCount_log | -0.036 (0.008) | <0.001 | -0.4% | 56,070 |
+| 3 | 10-year | PPML | Topic_Continuity | +0.027 (0.056) | 0.625 | +0.3% | 42,823 |
+| 3 | 10-year | PPML | Network_Consistency | +0.642 (0.023) | <0.001 | +6.6% | 42,823 |
+| 3 | 10-year | PPML | Direct_Percent | -0.677 (0.024) | <0.001 | -6.5% | 42,823 |
+| 3 | 10-year | PPML | PeerCount_log | -0.061 (0.008) | <0.001 | -0.6% | 42,823 |
+| 3 | 20-year | PPML | Topic_Continuity | -1.907 (0.140) | <0.001 | -17.4% | 20,568 |
+| 3 | 20-year | PPML | Network_Consistency | +0.466 (0.032) | <0.001 | +4.8% | 20,568 |
+| 3 | 20-year | PPML | Direct_Percent | -0.350 (0.029) | <0.001 | -3.4% | 20,568 |
+| 3 | 20-year | PPML | PeerCount_log | -0.085 (0.011) | <0.001 | -0.8% | 20,568 |
+| 3 | Overall career | PPML | Topic_Continuity | -0.681 (0.086) | <0.001 | -6.6% | 62,394 |
+| 3 | Overall career | PPML | Network_Consistency | +0.580 (0.024) | <0.001 | +6.0% | 62,394 |
+| 3 | Overall career | PPML | Direct_Percent | -0.528 (0.023) | <0.001 | -5.1% | 62,394 |
+| 3 | Overall career | PPML | PeerCount_log | -0.072 (0.008) | <0.001 | -0.7% | 62,394 |
+
+Note. LPM, OLS and PPML use the same complete-case samples and eight substantive predictors, with effective-graduation-year fixed effects. LPM models any citation-elite publication. PPML models publication counts with log exposure as an offset. LPM transformations are percentage-point changes for a 0.1-unit increase; PPML transformations are percentage rate changes for a 0.1-unit increase.
+
+---
+
+**Table S9, Panel B. OLS with mentee and two-way clustered standard errors.**
+
+| Lag t | Window | Variable | Coefficient | SE: mentee cluster | p: mentee cluster | SE: two-way cluster | p: two-way cluster | N |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5-year | Topic_Continuity | -0.108 | 0.096 | 0.261 | 0.097 | 0.266 | 57,751 |
+| 2 | 5-year | Network_Consistency | +0.856 | 0.090 | <0.001 | 0.091 | <0.001 | 57,751 |
+| 2 | 5-year | Direct_Percent | -0.424 | 0.119 | <0.001 | 0.120 | <0.001 | 57,751 |
+| 2 | 5-year | PeerCount_log | -0.102 | 0.013 | <0.001 | 0.015 | <0.001 | 57,751 |
+| 2 | 10-year | Topic_Continuity | -1.983 | 0.168 | <0.001 | 0.169 | <0.001 | 44,736 |
+| 2 | 10-year | Network_Consistency | +0.927 | 0.096 | <0.001 | 0.096 | <0.001 | 44,736 |
+| 2 | 10-year | Direct_Percent | -0.458 | 0.106 | <0.001 | 0.106 | <0.001 | 44,736 |
+| 2 | 10-year | PeerCount_log | -0.153 | 0.017 | <0.001 | 0.020 | <0.001 | 44,736 |
+| 2 | 20-year | Topic_Continuity | -6.057 | 0.272 | <0.001 | 0.281 | <0.001 | 21,440 |
+| 2 | 20-year | Network_Consistency | +1.004 | 0.091 | <0.001 | 0.093 | <0.001 | 21,440 |
+| 2 | 20-year | Direct_Percent | -0.340 | 0.063 | <0.001 | 0.067 | <0.001 | 21,440 |
+| 2 | 20-year | PeerCount_log | -0.257 | 0.026 | <0.001 | 0.033 | <0.001 | 21,440 |
+| 2 | Overall career | Topic_Continuity | -2.846 | 0.209 | <0.001 | 0.212 | <0.001 | 61,981 |
+| 2 | Overall career | Network_Consistency | +1.165 | 0.102 | <0.001 | 0.103 | <0.001 | 61,981 |
+| 2 | Overall career | Direct_Percent | -0.517 | 0.135 | <0.001 | 0.136 | <0.001 | 61,981 |
+| 2 | Overall career | PeerCount_log | -0.181 | 0.016 | <0.001 | 0.020 | <0.001 | 61,981 |
+| 3 | 5-year | Topic_Continuity | +0.266 | 0.104 | 0.011 | 0.106 | 0.012 | 56,070 |
+| 3 | 5-year | Network_Consistency | +0.911 | 0.107 | <0.001 | 0.107 | <0.001 | 56,070 |
+| 3 | 5-year | Direct_Percent | -0.550 | 0.120 | <0.001 | 0.121 | <0.001 | 56,070 |
+| 3 | 5-year | PeerCount_log | -0.099 | 0.013 | <0.001 | 0.015 | <0.001 | 56,070 |
+| 3 | 10-year | Topic_Continuity | -1.620 | 0.195 | <0.001 | 0.197 | <0.001 | 42,823 |
+| 3 | 10-year | Network_Consistency | +0.947 | 0.117 | <0.001 | 0.117 | <0.001 | 42,823 |
+| 3 | 10-year | Direct_Percent | -0.589 | 0.117 | <0.001 | 0.118 | <0.001 | 42,823 |
+| 3 | 10-year | PeerCount_log | -0.152 | 0.017 | <0.001 | 0.020 | <0.001 | 42,823 |
+| 3 | 20-year | Topic_Continuity | -5.527 | 0.300 | <0.001 | 0.307 | <0.001 | 20,568 |
+| 3 | 20-year | Network_Consistency | +1.060 | 0.102 | <0.001 | 0.104 | <0.001 | 20,568 |
+| 3 | 20-year | Direct_Percent | -0.519 | 0.077 | <0.001 | 0.081 | <0.001 | 20,568 |
+| 3 | 20-year | PeerCount_log | -0.255 | 0.027 | <0.001 | 0.033 | <0.001 | 20,568 |
+| 3 | Overall career | Topic_Continuity | -2.178 | 0.211 | <0.001 | 0.214 | <0.001 | 62,394 |
+| 3 | Overall career | Network_Consistency | +1.258 | 0.116 | <0.001 | 0.117 | <0.001 | 62,394 |
+| 3 | Overall career | Direct_Percent | -0.674 | 0.140 | <0.001 | 0.142 | <0.001 | 62,394 |
+| 3 | Overall career | PeerCount_log | -0.169 | 0.016 | <0.001 | 0.020 | <0.001 | 62,394 |
+
+Note. The two OLS specifications share the same coefficient estimates and samples; their covariance estimators differ. Two-way clustering is by mentee and mentor.
+
+---
+
+**Table S9, Panel C. VIF diagnostics for OLS and PPML.**
+
+| Variable | t2 VIF range | t3 VIF range | Assessment |
+| --- | --- | --- | --- |
+| Topic_Continuity | 1.028–1.064 | 1.027–1.071 | Pass (<5) |
+| Network_Consistency | 1.067–1.094 | 1.061–1.088 | Pass (<5) |
+| Direct_Percent | 1.098–1.135 | 1.093–1.128 | Pass (<5) |
+| PeerCount_log | 1.091–1.107 | 1.097–1.112 | Pass (<5) |
+| h_index | 1.152–1.208 | 1.158–1.207 | Pass (<5) |
+| AvgTopPubPerYear_Mentored | 2.197–3.460 | 2.231–3.575 | Pass (<5) |
+| AvgPaperPerYear_Mentored | 1.844–3.539 | 1.852–3.682 | Pass (<5) |
+| NetworkSize_Mentored | 1.115–1.274 | 1.122–1.298 | Pass (<5) |
+
+Note. VIFs describe collinearity among the substantive predictors, with an intercept. Graduation-year indicators are excluded from these displayed VIFs. Models with identical samples and predictor matrices share the same VIF values. These values are identical to Table S6, Panel C because the samples and predictors are identical.
+
+---
+
+**Table S10. Publication-lag robustness checks for landmark PSM1 and LPM results for TC and NC (t2 and t3). Panel A. PSM1.**
+
+| Lag t | Window | Outcome | Matched pairs | Maximum abs. SMD | Outcome SMD | Matched mean difference | p-value (clustered) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Years 4–10 | Topic_Continuity | 26,314 | 0.034 | +0.204 | +0.034 | <0.001 |
+| 2 | Years 4–10 | Network_Consistency | 26,422 | 0.034 | +0.168 | +0.034 | <0.001 |
+| 2 | Years 6–20 | Topic_Continuity | 13,002 | 0.087 | +0.122 | +0.020 | 0.104 |
+| 2 | Years 6–20 | Network_Consistency | 13,056 | 0.086 | +0.079 | +0.016 | 0.195 |
+| 3 | Years 4–10 | Topic_Continuity | 24,803 | 0.042 | +0.337 | +0.049 | <0.001 |
+| 3 | Years 4–10 | Network_Consistency | 24,881 | 0.042 | +0.158 | +0.029 | <0.001 |
+| 3 | Years 6–20 | Topic_Continuity | 11,549 | 0.079 | +0.239 | +0.036 | <0.001 |
+| 3 | Years 6–20 | Network_Consistency | 11,573 | 0.079 | +0.033 | +0.006 | 0.576 |
+
+Note. PSM1 compares subsequent publishers with non-publishers. Matched differences are publisher minus non-publisher; SMDs standardize the focal-variable differences. Matching p-values are clustered by mentee. Matched pairs can include reused controls and are not unique-person counts.
+
+---
+
+**Table S10, Panel B. Landmark LPM estimates.**
+
+| Lag t | Window | Model | Variable | Estimate (SE) | p-value | 0.1-unit effect | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Years 4–10 | LPM | Topic_Continuity | +0.018 (0.011) | 0.104 | +0.18 pp | 42,567 |
+| 2 | Years 4–10 | LPM | Network_Consistency | +0.049 (0.005) | <0.001 | +0.49 pp | 42,567 |
+| 2 | Years 6–20 | LPM | Topic_Continuity | +0.020 (0.013) | 0.116 | +0.20 pp | 20,127 |
+| 2 | Years 6–20 | LPM | Network_Consistency | +0.019 (0.006) | 0.001 | +0.19 pp | 20,127 |
+| 3 | Years 4–10 | LPM | Topic_Continuity | +0.053 (0.012) | <0.001 | +0.53 pp | 40,769 |
+| 3 | Years 4–10 | LPM | Network_Consistency | +0.040 (0.006) | <0.001 | +0.40 pp | 40,769 |
+| 3 | Years 6–20 | LPM | Topic_Continuity | +0.022 (0.014) | 0.133 | +0.22 pp | 19,319 |
+| 3 | Years 6–20 | LPM | Network_Consistency | +0.018 (0.007) | 0.007 | +0.18 pp | 19,319 |
+
+Note. LPM, OLS and PPML use the same complete-case samples and eight substantive predictors, with effective-graduation-year fixed effects. LPM models any citation-elite publication. PPML models publication counts with log exposure as an offset. LPM transformations are percentage-point changes for a 0.1-unit increase; PPML transformations are percentage rate changes for a 0.1-unit increase. Only TC and NC are displayed; DP and PC remain model covariates.
+
+---
+
+**Table S10, Panel C. VIF diagnostics for landmark LPM models.**
+
+| Variable | t2 VIF range | t3 VIF range | Assessment |
+| --- | --- | --- | --- |
+| Topic_Continuity | 1.024–1.025 | 1.019–1.020 | Pass (<5) |
+| Network_Consistency | 1.066–1.084 | 1.059–1.075 | Pass (<5) |
+| Direct_Percent | 1.110–1.128 | 1.105–1.124 | Pass (<5) |
+| PeerCount_log | 1.099–1.104 | 1.106–1.109 | Pass (<5) |
+| h_index | 1.183–1.211 | 1.185–1.206 | Pass (<5) |
+| AvgTopPubPerYear_Mentored | 2.456–3.414 | 2.269–3.525 | Pass (<5) |
+| AvgPaperPerYear_Mentored | 2.348–3.434 | 2.158–3.555 | Pass (<5) |
+| NetworkSize_Mentored | 1.114–1.142 | 1.122–1.156 | Pass (<5) |
+
+Note. VIFs describe collinearity among the substantive predictors, with an intercept. Graduation-year indicators are excluded from these displayed VIFs. Models with identical samples and predictor matrices share the same VIF values.
+
+---
+
+**Table S11. Covariate balance diagnostics for landmark PSM2 comparisons (t2 and t3).**
+
+| Lag t | Matching covariate | Matching sets | Abs. SMD before: range | Abs. SMD after: range | Maximum abs. SMD after | Assessment |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | log_h_index | 4 | 0.056–0.546 | 0.002–0.018 | 0.018 | Pass |
+| 2 | log_NetworkSize_Mentored | 4 | 0.138–0.748 | 0.002–0.015 | 0.015 | Pass |
+| 2 | log_AvgTopPubPerYear_Mentored | 4 | 0.252–0.589 | 0.000–0.003 | 0.003 | Pass |
+| 2 | log_AvgPaperPerYear_Mentored | 4 | 0.250–0.624 | 0.007–0.015 | 0.015 | Pass |
+| 3 | log_h_index | 4 | 0.049–0.517 | 0.001–0.013 | 0.013 | Pass |
+| 3 | log_NetworkSize_Mentored | 4 | 0.133–0.728 | 0.002–0.012 | 0.012 | Pass |
+| 3 | log_AvgTopPubPerYear_Mentored | 4 | 0.265–0.583 | 0.000–0.001 | 0.001 | Pass |
+| 3 | log_AvgPaperPerYear_Mentored | 4 | 0.257–0.632 | 0.009–0.016 | 0.016 | Pass |
+
+Note. Each lag includes four matching sets: two focal variables across two landmark outcome windows. Ranges summarize absolute standardized mean differences across the outcome-complete matched samples. All sets satisfy maximum absolute SMD ≤ 0.10.
+
+---
+
+**Table S12. Publication-lag robustness checks for landmark PSM2 matched output comparisons for TC and NC (t2 and t3).**
+
+| Lag t | Window | Analysis | Matched pairs | Maximum abs. SMD | Balance | Treated/high mean | Control/low mean | Outcome ATT | p-value (clustered) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Years 4–10 | Topic_Continuity | 18,463 | 0.011 | Pass | 3.282 | 2.933 | +0.349 | <0.001 |
+| 2 | Years 4–10 | Network_Consistency | 13,902 | 0.013 | Pass | 3.682 | 3.399 | +0.282 | <0.001 |
+| 2 | Years 6–20 | Topic_Continuity | 9,672 | 0.015 | Pass | 3.670 | 3.369 | +0.301 | <0.001 |
+| 2 | Years 6–20 | Network_Consistency | 5,061 | 0.018 | Pass | 4.562 | 4.082 | +0.480 | <0.001 |
+| 3 | Years 4–10 | Topic_Continuity | 18,083 | 0.013 | Pass | 3.492 | 2.982 | +0.510 | <0.001 |
+| 3 | Years 4–10 | Network_Consistency | 12,134 | 0.013 | Pass | 3.930 | 3.687 | +0.242 | 0.005 |
+| 3 | Years 6–20 | Topic_Continuity | 9,354 | 0.016 | Pass | 3.839 | 3.288 | +0.551 | <0.001 |
+| 3 | Years 6–20 | Network_Consistency | 4,469 | 0.014 | Pass | 4.758 | 4.191 | +0.567 | <0.001 |
+
+Note. PSM2 compares above-median and at/below-median values of the focal variable among positive-outcome records. ATT uses conventional matching notation for the high-minus-low matched mean difference in publications per year; estimates are interpreted as adjusted observational comparisons. P-values are clustered by mentee.
+
+---
+
+**Table S13. Publication-lag robustness checks for landmark PPML and OLS estimates for TC and NC (t2 and t3). Panel A. PPML.**
+
+| Lag t | Window | Model | Variable | Estimate (SE) | p-value | 0.1-unit effect | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Years 4–10 | PPML | Topic_Continuity | +0.194 (0.034) | <0.001 | +2.0% | 42,567 |
+| 2 | Years 4–10 | PPML | Network_Consistency | +0.449 (0.027) | <0.001 | +4.6% | 42,567 |
+| 2 | Years 6–20 | PPML | Topic_Continuity | +0.065 (0.050) | 0.191 | +0.7% | 20,127 |
+| 2 | Years 6–20 | PPML | Network_Consistency | +0.280 (0.035) | <0.001 | +2.8% | 20,127 |
+| 3 | Years 4–10 | PPML | Topic_Continuity | +0.359 (0.040) | <0.001 | +3.7% | 40,769 |
+| 3 | Years 4–10 | PPML | Network_Consistency | +0.524 (0.028) | <0.001 | +5.4% | 40,769 |
+| 3 | Years 6–20 | PPML | Topic_Continuity | +0.262 (0.056) | <0.001 | +2.7% | 19,319 |
+| 3 | Years 6–20 | PPML | Network_Consistency | +0.279 (0.038) | <0.001 | +2.8% | 19,319 |
+
+Note. LPM, OLS and PPML use the same complete-case samples and eight substantive predictors, with effective-graduation-year fixed effects. LPM models any citation-elite publication. PPML models publication counts with log exposure as an offset. LPM transformations are percentage-point changes for a 0.1-unit increase; PPML transformations are percentage rate changes for a 0.1-unit increase. Only TC and NC are displayed; DP and PC remain model covariates.
+
+---
+
+**Table S13, Panel B. Landmark OLS with mentee and two-way clustered standard errors.**
+
+| Lag t | Window | Variable | Coefficient | SE: mentee cluster | p: mentee cluster | SE: two-way cluster | p: two-way cluster | N |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Years 4–10 | Topic_Continuity | +0.227 | 0.078 | 0.003 | 0.079 | 0.004 | 42,567 |
+| 2 | Years 4–10 | Network_Consistency | +0.591 | 0.134 | <0.001 | 0.135 | <0.001 | 42,567 |
+| 2 | Years 6–20 | Topic_Continuity | +0.084 | 0.142 | 0.552 | 0.143 | 0.554 | 20,127 |
+| 2 | Years 6–20 | Network_Consistency | +0.653 | 0.135 | <0.001 | 0.137 | <0.001 | 20,127 |
+| 3 | Years 4–10 | Topic_Continuity | +0.629 | 0.095 | <0.001 | 0.097 | <0.001 | 40,769 |
+| 3 | Years 4–10 | Network_Consistency | +0.607 | 0.168 | <0.001 | 0.168 | <0.001 | 40,769 |
+| 3 | Years 6–20 | Topic_Continuity | +0.660 | 0.168 | <0.001 | 0.170 | <0.001 | 19,319 |
+| 3 | Years 6–20 | Network_Consistency | +0.619 | 0.145 | <0.001 | 0.146 | <0.001 | 19,319 |
+
+---
+
+**Table S13, Panel C. VIF diagnostics for landmark OLS and PPML.**
+
+| Variable | t2 VIF range | t3 VIF range | Assessment |
+| --- | --- | --- | --- |
+| Topic_Continuity | 1.024–1.025 | 1.019–1.020 | Pass (<5) |
+| Network_Consistency | 1.066–1.084 | 1.059–1.075 | Pass (<5) |
+| Direct_Percent | 1.110–1.128 | 1.105–1.124 | Pass (<5) |
+| PeerCount_log | 1.099–1.104 | 1.106–1.109 | Pass (<5) |
+| h_index | 1.183–1.211 | 1.185–1.206 | Pass (<5) |
+| AvgTopPubPerYear_Mentored | 2.456–3.414 | 2.269–3.525 | Pass (<5) |
+| AvgPaperPerYear_Mentored | 2.348–3.434 | 2.158–3.555 | Pass (<5) |
+| NetworkSize_Mentored | 1.114–1.142 | 1.122–1.156 | Pass (<5) |
+
+Note. VIFs describe collinearity among the substantive predictors, with an intercept. Graduation-year indicators are excluded from these displayed VIFs. Models with identical samples and predictor matrices share the same VIF values. These values are identical to Table S10, Panel C because the samples and predictors are identical.

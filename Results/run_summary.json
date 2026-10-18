@@ -1,0 +1,9 @@
+{
+  "post_graduation_regression_designs": 12,
+  "mentorship_lpm_designs": 2,
+  "matching_designs": 54,
+  "regression_coefficient_rows": 394,
+  "matching_outcome_rows": 84,
+  "matching_balance_failures": 0,
+  "elapsed_seconds": 227.2
+}

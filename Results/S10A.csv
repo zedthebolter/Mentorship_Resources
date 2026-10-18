@@ -1,0 +1,9 @@
+Lag t,Window,Outcome,Matched pairs,Maximum abs. SMD,Outcome SMD,Matched mean difference,p-value (clustered)
+2,Years 4–10,Topic_Continuity,"26,314",0.034,+0.204,+0.034,<0.001
+2,Years 4–10,Network_Consistency,"26,422",0.034,+0.168,+0.034,<0.001
+2,Years 6–20,Topic_Continuity,"13,002",0.087,+0.122,+0.020,0.104
+2,Years 6–20,Network_Consistency,"13,056",0.086,+0.079,+0.016,0.195
+3,Years 4–10,Topic_Continuity,"24,803",0.042,+0.337,+0.049,<0.001
+3,Years 4–10,Network_Consistency,"24,881",0.042,+0.158,+0.029,<0.001
+3,Years 6–20,Topic_Continuity,"11,549",0.079,+0.239,+0.036,<0.001
+3,Years 6–20,Network_Consistency,"11,573",0.079,+0.033,+0.006,0.576

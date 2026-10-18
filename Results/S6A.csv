@@ -1,0 +1,33 @@
+Lag t,Window,Outcome,Matched pairs,Maximum abs. SMD,Outcome SMD,Matched mean difference,p-value (clustered)
+2,5-year,Topic_Continuity,"24,460",0.034,+0.511,+0.075,<0.001
+2,5-year,Network_Consistency,"53,838",0.033,+0.630,+0.116,<0.001
+2,5-year,Direct_Percent,"53,838",0.033,-0.281,-0.094,<0.001
+2,5-year,PeerCount_log,"55,721",0.030,-0.381,-0.402,<0.001
+2,10-year,Topic_Continuity,"22,026",0.051,+0.313,+0.040,<0.001
+2,10-year,Network_Consistency,"41,958",0.033,+0.591,+0.115,<0.001
+2,10-year,Direct_Percent,"41,958",0.033,-0.314,-0.106,<0.001
+2,10-year,PeerCount_log,"44,293",0.029,-0.500,-0.527,<0.001
+2,20-year,Topic_Continuity,"11,241",0.068,+0.013,+0.002,0.872
+2,20-year,Network_Consistency,"19,780",0.061,+0.424,+0.086,<0.001
+2,20-year,Direct_Percent,"19,780",0.061,-0.447,-0.156,<0.001
+2,20-year,PeerCount_log,"21,655",0.049,-0.598,-0.598,<0.001
+2,Overall career,Topic_Continuity,"24,671",0.028,+0.213,+0.028,<0.001
+2,Overall career,Network_Consistency,"59,536",0.029,+0.702,+0.133,<0.001
+2,Overall career,Direct_Percent,"59,536",0.029,-0.383,-0.129,<0.001
+2,Overall career,PeerCount_log,"62,762",0.026,-0.339,-0.352,<0.001
+3,5-year,Topic_Continuity,"24,419",0.031,+0.655,+0.086,<0.001
+3,5-year,Network_Consistency,"51,994",0.036,+0.576,+0.096,<0.001
+3,5-year,Direct_Percent,"51,994",0.036,-0.361,-0.116,<0.001
+3,5-year,PeerCount_log,"53,263",0.034,-0.389,-0.423,<0.001
+3,10-year,Topic_Continuity,"20,207",0.043,+0.487,+0.058,<0.001
+3,10-year,Network_Consistency,"39,881",0.043,+0.523,+0.095,<0.001
+3,10-year,Direct_Percent,"39,881",0.043,-0.376,-0.122,<0.001
+3,10-year,PeerCount_log,"41,476",0.039,-0.474,-0.515,<0.001
+3,20-year,Topic_Continuity,"9,068",0.050,+0.161,+0.018,0.042
+3,20-year,Network_Consistency,"18,573",0.063,+0.412,+0.077,<0.001
+3,20-year,Direct_Percent,"18,573",0.063,-0.490,-0.162,<0.001
+3,20-year,PeerCount_log,"19,968",0.051,-0.556,-0.569,<0.001
+3,Overall career,Topic_Continuity,"23,627",0.022,+0.317,+0.039,<0.001
+3,Overall career,Network_Consistency,"59,632",0.024,+0.665,+0.116,<0.001
+3,Overall career,Direct_Percent,"59,632",0.024,-0.450,-0.144,<0.001
+3,Overall career,PeerCount_log,"61,993",0.022,-0.285,-0.301,<0.001

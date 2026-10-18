@@ -1,0 +1,9 @@
+Lag t,Window,Model,Variable,Estimate (SE),p-value,0.1-unit effect,N
+2,Years 4–10,PPML,Topic_Continuity,+0.194 (0.034),<0.001,+2.0%,"42,567"
+2,Years 4–10,PPML,Network_Consistency,+0.449 (0.027),<0.001,+4.6%,"42,567"
+2,Years 6–20,PPML,Topic_Continuity,+0.065 (0.050),0.191,+0.7%,"20,127"
+2,Years 6–20,PPML,Network_Consistency,+0.280 (0.035),<0.001,+2.8%,"20,127"
+3,Years 4–10,PPML,Topic_Continuity,+0.359 (0.040),<0.001,+3.7%,"40,769"
+3,Years 4–10,PPML,Network_Consistency,+0.524 (0.028),<0.001,+5.4%,"40,769"
+3,Years 6–20,PPML,Topic_Continuity,+0.262 (0.056),<0.001,+2.7%,"19,319"
+3,Years 6–20,PPML,Network_Consistency,+0.279 (0.038),<0.001,+2.8%,"19,319"

@@ -1,0 +1,5 @@
+Lag t,Window,Model,Variable,Estimate (SE),p-value,0.1-unit effect,N
+2,Mentorship period,LPM,Direct_Percent,+0.118 (0.005),<0.001,+1.18 pp,"65,321"
+2,Mentorship period,LPM,PeerCount_log,+0.010 (0.001),<0.001,+0.10 pp,"65,321"
+3,Mentorship period,LPM,Direct_Percent,+0.109 (0.005),<0.001,+1.09 pp,"66,794"
+3,Mentorship period,LPM,PeerCount_log,+0.008 (0.001),<0.001,+0.08 pp,"66,794"

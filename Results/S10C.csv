@@ -1,0 +1,9 @@
+Variable,t2 VIF range,t3 VIF range,Assessment
+Topic_Continuity,1.024–1.025,1.019–1.020,Pass (<5)
+Network_Consistency,1.066–1.084,1.059–1.075,Pass (<5)
+Direct_Percent,1.110–1.128,1.105–1.124,Pass (<5)
+PeerCount_log,1.099–1.104,1.106–1.109,Pass (<5)
+h_index,1.183–1.211,1.185–1.206,Pass (<5)
+AvgTopPubPerYear_Mentored,2.456–3.414,2.269–3.525,Pass (<5)
+AvgPaperPerYear_Mentored,2.348–3.434,2.158–3.555,Pass (<5)
+NetworkSize_Mentored,1.114–1.142,1.122–1.156,Pass (<5)

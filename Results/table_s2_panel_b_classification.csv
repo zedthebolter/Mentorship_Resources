@@ -1,0 +1,8 @@
+﻿Item,Value
+Total number of journals in OpenAlex,"260,798"
+Journals meeting none of the three thresholds,"240,425"
+Journals meeting one threshold,"8,307"
+Journals meeting two thresholds,"5,219"
+Journals meeting all three thresholds,"6,847"
+Final citation-elite journal set,"6,847"
+Share of all journals,2.6254%

@@ -1,0 +1,9 @@
+Lag t,Window,Analysis,Matched pairs,Maximum abs. SMD,Balance,Treated/high mean,Control/low mean,Outcome ATT,p-value (clustered)
+2,Years 4–10,Topic_Continuity,"18,463",0.011,Pass,3.282,2.933,+0.349,<0.001
+2,Years 4–10,Network_Consistency,"13,902",0.013,Pass,3.682,3.399,+0.282,<0.001
+2,Years 6–20,Topic_Continuity,"9,672",0.015,Pass,3.670,3.369,+0.301,<0.001
+2,Years 6–20,Network_Consistency,"5,061",0.018,Pass,4.562,4.082,+0.480,<0.001
+3,Years 4–10,Topic_Continuity,"18,083",0.013,Pass,3.492,2.982,+0.510,<0.001
+3,Years 4–10,Network_Consistency,"12,134",0.013,Pass,3.930,3.687,+0.242,0.005
+3,Years 6–20,Topic_Continuity,"9,354",0.016,Pass,3.839,3.288,+0.551,<0.001
+3,Years 6–20,Network_Consistency,"4,469",0.014,Pass,4.758,4.191,+0.567,<0.001

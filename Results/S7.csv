@@ -1,0 +1,9 @@
+Lag t,Matching covariate,Matching sets,Abs. SMD before: range,Abs. SMD after: range,Maximum abs. SMD after,Assessment
+2,log_h_index,16,0.054–0.643,0.002–0.019,0.019,Pass
+2,log_NetworkSize_Mentored,16,0.020–0.792,0.002–0.018,0.018,Pass
+2,log_AvgTopPubPerYear_Mentored,16,0.013–0.608,0.000–0.006,0.006,Pass
+2,log_AvgPaperPerYear_Mentored,16,0.049–0.712,0.000–0.018,0.018,Pass
+3,log_h_index,16,0.060–0.641,0.001–0.018,0.018,Pass
+3,log_NetworkSize_Mentored,16,0.003–0.782,0.000–0.015,0.015,Pass
+3,log_AvgTopPubPerYear_Mentored,16,0.005–0.606,0.000–0.005,0.005,Pass
+3,log_AvgPaperPerYear_Mentored,16,0.043–0.724,0.000–0.017,0.017,Pass

@@ -1,0 +1,6 @@
+﻿step,n,excluded
+Source relationships,743176,0
+Nonempty person identifiers and MentorID != 0,743176,0
+"Observed start/end years, neither equal to -1",108668,634508
+End year not earlier than start year,108578,90
+Remove duplicate relationship spells,108537,41

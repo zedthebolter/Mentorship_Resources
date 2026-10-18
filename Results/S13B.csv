@@ -1,0 +1,9 @@
+Lag t,Window,Variable,Coefficient,SE: mentee cluster,p: mentee cluster,SE: two-way cluster,p: two-way cluster,N
+2,Years 4–10,Topic_Continuity,+0.227,0.078,0.003,0.079,0.004,"42,567"
+2,Years 4–10,Network_Consistency,+0.591,0.134,<0.001,0.135,<0.001,"42,567"
+2,Years 6–20,Topic_Continuity,+0.084,0.142,0.552,0.143,0.554,"20,127"
+2,Years 6–20,Network_Consistency,+0.653,0.135,<0.001,0.137,<0.001,"20,127"
+3,Years 4–10,Topic_Continuity,+0.629,0.095,<0.001,0.097,<0.001,"40,769"
+3,Years 4–10,Network_Consistency,+0.607,0.168,<0.001,0.168,<0.001,"40,769"
+3,Years 6–20,Topic_Continuity,+0.660,0.168,<0.001,0.170,<0.001,"19,319"
+3,Years 6–20,Network_Consistency,+0.619,0.145,<0.001,0.146,<0.001,"19,319"

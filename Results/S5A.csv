@@ -1,0 +1,5 @@
+Lag t,Outcome,Matched pairs,Maximum abs. SMD,Outcome SMD,Matched mean difference,p-value (clustered)
+2,Direct_Percent,"59,505",0.013,+0.444,+0.144,<0.001
+2,PeerCount_log,"59,772",0.014,+0.179,+0.175,<0.001
+3,Direct_Percent,"61,743",0.015,+0.472,+0.143,<0.001
+3,PeerCount_log,"61,978",0.015,+0.132,+0.135,0.024

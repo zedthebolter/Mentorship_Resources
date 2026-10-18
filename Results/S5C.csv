@@ -1,0 +1,6 @@
+Variable,t2 VIF,t3 VIF,Assessment
+Direct_Percent,1.144,1.143,Pass (<5)
+PeerCount_log,1.048,1.050,Pass (<5)
+ln(1+h_index),1.148,1.145,Pass (<5)
+ln(1+NetworkSize_Mentored),2.140,2.191,Pass (<5)
+ln(1+AvgPaperPerYear_Mentored),2.178,2.235,Pass (<5)
